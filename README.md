@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I create value by enabling researchers focus on optimizing their algorithms by managing the technical debt surrounding their AI systems.
-
 I've 5+ years of experience building distributed, deep learning systems in areas like search, natural language processing, and computer vision.
 
 I'm comfortable operating in teams and working independently with minimal oversight across different functional units developing a high tolerance for ambiguity and always ready to roll up my sleeves.
