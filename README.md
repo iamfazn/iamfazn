@@ -10,6 +10,9 @@ I also spend time writing my views on engineering, tech leadership, and software
 
 ### Blogs
 * [On Growth](https://www.linkedin.com/pulse/growth-fauzan-baig/)
+* [HBase at a glance](https://www.linkedin.com/pulse/hbase-glance-fauzan-baig/)
+* [Future of Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
 * [On Entrepreneurship](https://www.linkedin.com/pulse/entrepreneurship-fauzan-baig/)
-* [The Future of Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
+* [Guide to JS Ecosystem](https://www.linkedin.com/pulse/short-guide-navigating-through-front-end-technologies-fauzan-baig/)
 * [The Spiritual Crisis in Man](https://www.linkedin.com/pulse/spiritual-crisis-man-fauzan-baig/?trackingId=UhAlcDFIRZiRSFBAAY8UAQ%3D%3D)
+* [Overview of Config Management](https://www.linkedin.com/pulse/overview-config-management-microservices-fauzan-baig/)
