@@ -8,9 +8,33 @@ I'm comfortable operating in teams and working independently with minimal oversi
 
 I believe there are many problems in the world that software could play a significant role in making life safer and faster for people to get things done. I tend to see the world as a web of relations in that there are no limits to what people with different strengths and perspectives can create together.
 
-I also spend time writing my views on engineering, martial arts, history, philosophy, and religion. 
+I also spend time writing my views on engineering, martial arts, history, philosophy, and religion
 
-### Blogs
+--- 
+
+## Experience
+
+#### Software Engineer, [Cisco](https://www.cisco.com/)
+##### July 2019 - Present | India
+
+--- 
+
+#### Technical Lead, [Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/), [KloudOne](https://www.kloudone.com/) 
+##### May 2015 - June 2019 | India
+
+---
+
+## Education
+
+#### Mathematics, [University of Madras](https://www.unom.ac.in/)
+
+--- 
+
+#### Electronics & Communication Engineering, [Anna University](https://www.annauniv.edu/)
+
+---
+
+## Blogs
 * [Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
 * [Growth](https://www.linkedin.com/pulse/growth-fauzan-baig/)
 * [Entrepreneurship](https://www.linkedin.com/pulse/entrepreneurship-fauzan-baig/)
