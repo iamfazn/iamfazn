@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've 5+ years of experience building distributed, deep learning systems in areas like search, natural language processing, and computer vision.
+I've 5+ years of experience building deep learning systems in areas like art, language, and perception.
 
 I'm comfortable operating in teams and working independently with minimal oversight across different functional units developing a high tolerance for ambiguity and always ready to roll up my sleeves.
 
