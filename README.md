@@ -2,7 +2,7 @@
 
 I've 5+ years of experience building deep learning systems in areas like art, language, and perception.
 
-I worked as Senior Software Engineer in large-scale startups like **[Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/)**, **[KloudOne](https://www.kloudone.com/)**. I was recently the Founding Engineer, Technical Architect @ **[KloudOne](https://www.kloudone.com/)** managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
+I worked as Senior Software Engineer in large-scale startups like **[Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/)**. I was recently the Founding Engineer, Technical Architect @ **[KloudOne](https://www.kloudone.com/)** managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
 
 I also spend time writing my views on engineering, martial arts, history, philosophy, and religion. 
 
