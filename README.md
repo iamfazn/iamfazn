@@ -1,6 +1,6 @@
 ## Summary
 
-I've 5+ years of experience building distributed systems, deep learning systems in areas like art, language, and perception.
+> I enabled researchers to focus on optimizing their algorithms by managing their surrounding technical debt.
 
 ## Experience
 #### Software Engineer, [Cisco](https://www.cisco.com/)
