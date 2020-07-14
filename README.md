@@ -1,6 +1,6 @@
 ## Summary
 
-> I enabled researchers to focus on optimizing their algorithms by managing their surrounding technical debt.
+> **I enabled researchers to focus on optimizing their algorithms by managing their surrounding technical debt**
 
 ## Experience
 #### Software Engineer, [Cisco](https://www.cisco.com/)
