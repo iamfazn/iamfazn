@@ -10,7 +10,9 @@ I believe there are many problems in the world that software could play a signif
 
 I also spend time writing my views on engineering, martial arts, history, philosophy, and religion
 
---- 
+
+<br/>
+
 
 ## Experience
 
@@ -24,15 +26,23 @@ I also spend time writing my views on engineering, martial arts, history, philos
 
 ---
 
+<br/>
+
 ## Education
 
 #### Mathematics, [University of Madras](https://www.unom.ac.in/)
+##### (2020 - 2022) | India
 
 --- 
 
 #### Electronics & Communication Engineering, [Anna University](https://www.annauniv.edu/)
+##### (2011 - 2015) | India
 
 ---
+
+
+<br/>
+
 
 ## Blogs
 * [Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
