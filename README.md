@@ -14,7 +14,7 @@ I also spend time writing my views on engineering, martial arts, history, philos
 
 ## Experience
 #### Technical Lead
-##### ~~~[Snapdeal]~~~(https://www.snapdeal.com/) | ~~~[PipeCandy]~~~(https://pipecandy.com/) | ~~~[KloudOne]~~~ (https://www.kloudone.com/)| [Cisco](https://www.cisco.com/)
+##### [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)| [Cisco](https://www.cisco.com/)
 ##### May 2015 - Present | India
 --- 
 
