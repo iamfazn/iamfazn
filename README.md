@@ -1,6 +1,6 @@
 ## Summary
 
-I've 5+ years of experience building deep learning systems in areas like art, language, and perception.
+I've **5+ years** of experience building deep learning systems in areas like **art, language, and perception**.
 
 I worked as **Senior Software Engineer** in large-scale startups like **[Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/)**, and was recently **Founding Engineer, and Technical Architect @ [KloudOne](https://www.kloudone.com/)** managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
 
