@@ -2,14 +2,14 @@
 
 I've 5+ years of experience building distributed systems, deep learning systems in areas like art, language, and perception.
 
-## Experience
+### Experience
 #### Software Engineer, [Cisco](https://www.cisco.com/)
 ##### July 2019 - Present | India
 --- 
 #### Technical Lead, [Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/), [KloudOne](https://www.kloudone.com/) 
 ##### May 2015 - June 2019 | India
 
-## Education
+### Education
 #### Mathematics, [University of Madras](https://www.unom.ac.in/)
 ##### (2020 - 2022) | India
 --- 
