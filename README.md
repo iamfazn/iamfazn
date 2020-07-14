@@ -2,7 +2,9 @@
 
 I create value by enabling researchers to focus on optimizing their algorithms by managing the technical debt surrounding their systems. 
 
-I've 5+ years of experience building deep learning systems in areas like art, language, and perception. I've held leadership positions in large-scale startups like Snapdeal, PipeCandy. I was recently the founding engineer, technical architect @ KloudOne, a cloud consulting company, managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
+I've 5+ years of experience building deep learning systems in areas like art, language, and perception. 
+
+I've held leadership positions in large-scale startups like Snapdeal, PipeCandy. I was recently the founding engineer, technical architect @ KloudOne, a cloud consulting company, managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
 
 I'm comfortable operating in teams and working independently with minimal oversight across different functional units developing a high tolerance for ambiguity and always ready to roll up my sleeves.
 
