@@ -13,9 +13,12 @@ I believe there are many problems in the world that software could play a signif
 I also spend time writing my views on engineering, martial arts, history, philosophy, and religion. 
 
 ## Experience
-#### Technical Lead
-##### [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)| [Cisco](https://www.cisco.com/)
-##### May 2015 - Present | India
+
+#### Software Engineer - [Cisco](https://www.cisco.com/)
+#### July 2019 - Present | India
+
+#### Technical Lead - [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)
+##### May 2015 - July 2019 | India
 --- 
 
 ## Blogs
