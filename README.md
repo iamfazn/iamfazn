@@ -3,10 +3,11 @@
 > **I enabled researchers to focus on optimizing their algorithms by managing their surrounding technical debt**
 
 ## Experience
-#### Software Engineer, [Cisco](https://www.cisco.com/)
+#### Software Engineer | [Cisco](https://www.cisco.com/)
 ##### July 2019 - Present | India
 --- 
-#### Technical Lead, [Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/), [KloudOne](https://www.kloudone.com/) 
+#### Technical Lead
+##### [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)
 ##### May 2015 - June 2019 | India
 
 ## Blogs
