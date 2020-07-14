@@ -4,10 +4,6 @@ I've 5+ years of experience building deep learning systems in areas like art, la
 
 I've held leadership positions in large-scale startups like Snapdeal, PipeCandy, and was recently founding engineer, technical architect @ KloudOne managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox
 
----
-
-<br>
-
 ## Experience
 #### Software Engineer, [Cisco](https://www.cisco.com/)
 ##### July 2019 - Present | India
