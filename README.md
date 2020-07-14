@@ -6,7 +6,7 @@ I'm comfortable operating in teams and working independently with minimal oversi
 
 I believe there are many problems in the world that software could play a significant role in making life safer and faster for people to get things done. I tend to see the world as a web of relations and there are no limits to what people with different strengths and perspectives can create together
 
-I also spend time writing my views on engineering, tech leadership, and software industry in general
+I also spend time writing my views on engineering, martial arts, and humanities
 
 ### Blogs
 * [Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
