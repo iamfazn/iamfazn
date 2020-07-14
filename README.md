@@ -15,11 +15,15 @@ I also spend time writing my views on engineering, martial arts, history, philos
 ## Experience
 
 #### Software Engineer - [Cisco](https://www.cisco.com/)
-#### July 2019 - Present | India
+> July 2019 - Present | India
+
+--- 
 
 #### Technical Lead - [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)
-##### May 2015 - July 2019 | India
+> May 2015 - July 2019 | India
+
 --- 
+
 
 ## Blogs
 * [Jobs](https://www.linkedin.com/pulse/future-jobs-fauzan-baig/?trackingId=9fagDVmCTpGLsJ%2BtnHWZgw%3D%3D)
