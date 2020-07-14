@@ -6,16 +6,6 @@ I've held leadership positions in large-scale startups like Snapdeal, PipeCandy,
 
 I also spend time writing my views on engineering, martial arts, history, philosophy, and religion. 
 
-## Experience
-
-#### Software Engineer - [Cisco](https://www.cisco.com/)
-> July 2019 - Present | India
-
---- 
-
-#### Technical Lead - [Snapdeal](https://www.snapdeal.com/) | [PipeCandy](https://pipecandy.com/) | [KloudOne](https://www.kloudone.com/)
-> May 2015 - July 2019 | India
-
 --- 
 
 
