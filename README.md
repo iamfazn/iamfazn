@@ -2,7 +2,7 @@
 
 I collaborate with research scientists to implement and evaluate machine learning algorithms. Go-to person for the team to build/scale infrastructure and tools for research teams
 
-I've 5+ years of experience architecting and implement software libraries for research prototypes across the range of deep learning based projects in areas like art, language, and perception.
+I've 5+ years of experience in architecting and implementing software libraries for research prototypes across the range of deep learning based projects in areas like art, language, and perception.
 
 I've held leadership positions in large-scale startups like **[Snapdeal](https://www.snapdeal.com/), [PipeCandy](https://pipecandy.com/)**. I was recently the Founding Engineer, Technical Architect @ **[KloudOne](https://www.kloudone.com/)** managing clients like Broadcom, Cinarra, CA Technologies, RiskSense, Symantec, and Accuknox.
 
