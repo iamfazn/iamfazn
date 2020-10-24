@@ -1,4 +1,4 @@
-## Half poet, half engineer
+## Senior Software Engineer
 
 I collaborate with research scientists to implement and evaluate machine learning algorithms. Go-to person for the team to build/scale infrastructure and tools for research teams
 
