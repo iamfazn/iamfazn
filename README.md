@@ -1,10 +1,10 @@
+I have 6+ years of experience working across multiple engineering teams. I am currently the lead engineer for Elastic Services Platform at Cisco and have previously helped build two early-stage startups handling clients like Broadcom, Cinarra, CA Technologies, and RiskSense.
+
 <p align="left">
   <a href="https://twitter.com/iamfazn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://github.com/iamfazn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/fauzanb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
-
-I have 6+ years of experience working across multiple engineering teams. I am currently the lead engineer for Elastic Services Platform at Cisco and have previously helped build two early-stage startups handling clients like Broadcom, Cinarra, CA Technologies, and RiskSense.
 
 ## Experience
 
