@@ -8,14 +8,12 @@ I have 6+ years of experience working across multiple engineering teams. I am cu
 
 ## Experience
 
-#### Software Engineer, Cisco
-##### Jul. 2019 - Present
+#### Software Engineer
 
-Elastic services platform that supports scalability of the infrastructure and services. A service in this environment is a horizontally scalable application that adds instances of itself when demand increases, and frees instances of itself when demand decreases.
+##### Aug. 2015 - Mar. 2017
 
-------
+Designed and built low-latency webserver for real-time ad serving platform that hosts advertisements and delivers them to publishers across web and mobile. The platform provides users with reporting on campaign analytics and tools to help track ad performance and better target audiences
 
-#### Founding Member, Early Stage Startups
 ##### Mar. 2017 - Jun. 2019
 
 Founding member for two early-stage startups scaled the team from 0 to 50+ members.
@@ -24,9 +22,6 @@ Predictive analytics platform processing billions of location and carrier transa
 
 Web crawling platform performing frontier crawls, and distribution/scaling primitives, allowing to build a large scale online web crawler. We also implemented the logic and policies to follow during the crawl. The platform also stores and prioritises links extracted by the crawler to decide which pages to visit next, and capable of doing it in distributed manner.
 
-------
+##### Jul. 2019 - Present
 
-#### Software Engineer, Snapdeal
-##### Aug. 2015 - Mar. 2017
-
-Designed and built low-latency webserver for real-time ad serving platform that hosts advertisements and delivers them to publishers across web and mobile. The platform provides users with reporting on campaign analytics and tools to help track ad performance and better target audiences
+Elastic services platform that supports scalability of the infrastructure and services. A service in this environment is a horizontally scalable application that adds instances of itself when demand increases, and frees instances of itself when demand decreases.
