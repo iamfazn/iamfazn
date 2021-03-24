@@ -9,7 +9,6 @@ I have 6+ years of experience working across multiple engineering teams. I am cu
 ## Experience
 
 #### Software Engineer, Cisco
-
 ##### Jul. 2019 - Present
 
 Elastic services platform that supports scalability of the infrastructure and services. A service in this environment is a horizontally scalable application that adds instances of itself when demand increases, and frees instances of itself when demand decreases.
@@ -17,7 +16,6 @@ Elastic services platform that supports scalability of the infrastructure and se
 ------
 
 #### Founding Member, Early Stage Startups
-
 ##### Mar. 2017 - Jun. 2019
 
 Founding member for two early-stage startups scaled the team from 0 to 50+ members.
@@ -29,7 +27,6 @@ Web crawling platform performing frontier crawls, and distribution/scaling primi
 ------
 
 #### Software Engineer, Snapdeal
-
 ##### Aug. 2015 - Mar. 2017
 
 Designed and built low-latency webserver for real-time ad serving platform that hosts advertisements and delivers them to publishers across web and mobile. The platform provides users with reporting on campaign analytics and tools to help track ad performance and better target audiences
