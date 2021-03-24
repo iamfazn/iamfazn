@@ -32,4 +32,4 @@ Web crawling platform performing frontier crawls, and distribution/scaling primi
 
 ##### Aug. 2015 - Mar. 2017
 
-Building low-latency web servers for ad serving platform across web and mobile.
+Designed and built low-latency webserver for real-time ad serving platform that hosts advertisements and delivers them to publishers across web and mobile. The platform provides users with comprehensive reporting on campaign analytics and tools to help track ad performance and better target audiences
