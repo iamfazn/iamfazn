@@ -6,6 +6,4 @@
   <a href="https://www.linkedin.com/in/fauzanb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
-Founding member for a cloud solutions startup handling clients like CA Technologies, Cinarra, and RiskSense. 
-
-As a hobbie, I spend time studying people, companies, and markets. 
+I spend time studying people, companies, and markets. 
