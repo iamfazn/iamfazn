@@ -1,3 +1,3 @@
 # Analyst
 
-I speclialize in building and scaling early-stage engineering startups
+I specialize in building and scaling early-stage engineering startups
