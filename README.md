@@ -1,3 +1,3 @@
 # Analyst
 
-I spend time studying people, companies, and markets. 
+I speclialize in building and scaling early-stage startups
