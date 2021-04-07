@@ -1,3 +1,3 @@
-#### I'm Fauzan
+### I'm Fauzan
 
-I specialize in building and scaling early-stage engineering startups
+I am passionate about building and scaling startups.
