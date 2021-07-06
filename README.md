@@ -1,3 +1,3 @@
 ## I'm Fauzan
 
-I am passionate about building and scaling startups.
+I spend time studying and understanding systems.
